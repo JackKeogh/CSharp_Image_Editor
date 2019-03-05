@@ -1,0 +1,10 @@
+C:\Users\jack\OneDrive\Desktop\Work\Projects\Image_Effects\Image_Effects\Image_Effects\bin\Debug\Image_Effects.exe.config
+C:\Users\jack\OneDrive\Desktop\Work\Projects\Image_Effects\Image_Effects\Image_Effects\bin\Debug\Image_Effects.exe
+C:\Users\jack\OneDrive\Desktop\Work\Projects\Image_Effects\Image_Effects\Image_Effects\bin\Debug\Image_Effects.pdb
+C:\Users\jack\OneDrive\Desktop\Work\Projects\Image_Effects\Image_Effects\Image_Effects\obj\Debug\Image_Effects.csprojAssemblyReference.cache
+C:\Users\jack\OneDrive\Desktop\Work\Projects\Image_Effects\Image_Effects\Image_Effects\obj\Debug\Image_Effects.Form1.resources
+C:\Users\jack\OneDrive\Desktop\Work\Projects\Image_Effects\Image_Effects\Image_Effects\obj\Debug\Image_Effects.Properties.Resources.resources
+C:\Users\jack\OneDrive\Desktop\Work\Projects\Image_Effects\Image_Effects\Image_Effects\obj\Debug\Image_Effects.csproj.GenerateResource.cache
+C:\Users\jack\OneDrive\Desktop\Work\Projects\Image_Effects\Image_Effects\Image_Effects\obj\Debug\Image_Effects.csproj.CoreCompileInputs.cache
+C:\Users\jack\OneDrive\Desktop\Work\Projects\Image_Effects\Image_Effects\Image_Effects\obj\Debug\Image_Effects.exe
+C:\Users\jack\OneDrive\Desktop\Work\Projects\Image_Effects\Image_Effects\Image_Effects\obj\Debug\Image_Effects.pdb
