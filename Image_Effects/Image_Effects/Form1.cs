@@ -66,6 +66,10 @@ namespace Image_Effects
 
         private void FileNameBtn02_Click(object sender, EventArgs e)
         {
+            if (FileNameTextBox.Text == "")
+            {
+                return;
+            }
             if (m_current_image != FileNameTextBox.Text)
             {
                 m_image = new Bitmap(FileNameTextBox.Text, true);
@@ -80,6 +84,12 @@ namespace Image_Effects
 
         private void ChangeColorBtn_Click(object sender, EventArgs e)
         {
+            if (m_image == null)
+            {
+                MessageBox.Show("No file open to change color of.", "Cannot Change Color", MessageBoxButtons.OK);
+                return;
+            }
+
             Color from = Color.FromName(ChangeFrom.Text);
             Color to = Color.FromName(ChangeTo.Text);
 
@@ -105,6 +115,12 @@ namespace Image_Effects
 
         private void BlurBtn_Click(object sender, EventArgs e)
         {
+            if (m_image == null)
+            {
+                MessageBox.Show("No image to blur.", "Cannot Blur", MessageBoxButtons.OK);
+                return;
+            }
+
             int avgR = 0, avgB = 0, avgG = 0;
             int num_of_pixels = 0;
             int width = (int)BlurBlockWidth.Value;
